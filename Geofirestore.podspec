@@ -43,9 +43,9 @@ An alternative to the GeoFire library provided by Firebase, but compatible with 
   
   s.static_framework = true
   
-  s.dependency 'Firebase', '~> 6.1.0'
+  s.dependency 'Firebase', '~> 5.4'
   s.dependency 'GeoFire', '~> 3.0'
-  s.dependency 'FirebaseCore', '~> 6.0.1'
-  s.dependency 'FirebaseFirestore', '~> 1.3.1'
+  s.dependency 'FirebaseCore', '~> 5.0'
+  s.dependency 'FirebaseFirestore', '~> 0.12'
 
 end
