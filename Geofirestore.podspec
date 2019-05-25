@@ -44,7 +44,7 @@ An alternative to the GeoFire library provided by Firebase, but compatible with 
   s.static_framework = true
   
   s.dependency 'Firebase', '~> 6.1.0'
-  s.dependency 'GeoFire', '~> 3.0'
+  s.dependency 'GeoFire', :git => 'https://collinesmon@github.com/CollinEsmon/geofire-objc.git'
   s.dependency 'FirebaseCore', '~> 6.0.1'
   s.dependency 'FirebaseFirestore', '~> 1.3.1'
 
